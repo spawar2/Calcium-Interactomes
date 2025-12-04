@@ -7,7 +7,7 @@ Extracellular calcium alters calcium-sensing receptor network integrating intrac
 ††††† ^^^Georgia State University, College of Arts and Sciences, Department of Computer Science and Biology, Atlanta, United States of America (USA). 
 †Corresponding author. ††First author. †††Second author. ††††Third author. †††††author.
 
-
+All Nature, BMC, and Frontiers Journal (Q1-level), others (Springer Genes and Genomics, Elsevier Journal of Theoretical Biology, Data in Brief, Wiley's Chemical Biology and Drug Design, etc.): Q2-Q3.
 https://www.java.com/
 https://www.php.net/
 https://www.mysql.com/
